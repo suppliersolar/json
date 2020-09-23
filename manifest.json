@@ -1,0 +1,46 @@
+{
+	"short_name": "Suppliersolar.id",
+	"name": "Suppliersolar.id",
+	"lang": "id",
+	"description": "PT. SHM | Sinar Harapan Mulia | Agen Resmi Supplier BBM Solar Industri Non Subsidi | Harga Murah, Kualitas Terbaik, Legal, Aman, Layanan Cepat by Aplikasi",
+	"start_url": "Suppliersolar.id",
+	"background_color": "#ffffff",
+	"theme_color": "#ffffff",
+	"dir": "auto",
+	"display": "standalone",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "https://1.bp.blogspot.com/-zSUlNdonKLY/X2sOR5g1DsI/AAAAAAAAACw/naaF0MWSemMEBUPEOzoR7btBDNhy9sZ4QCNcBGAsYHQ/s48/android-launchericon-48-48.png",
+			"type": "image/png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "https://1.bp.blogspot.com/-43orG8zBq1M/X2sOS4AwVTI/AAAAAAAAAC8/559uujBB8pknpVNarGeHHvI8vub0RsCWwCNcBGAsYHQ/s72/android-launchericon-72-72.png",
+			"type": "image/png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "https://1.bp.blogspot.com/-HoA2i4BE1oo/X2sOTHnOnfI/AAAAAAAAADA/Qu__LsGBKL8mUboJcjFpN5qDMV8V3sAXwCNcBGAsYHQ/s96/android-launchericon-96-96.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "https://1.bp.blogspot.com/-21UK1fCenL4/X2sOR12bDMI/AAAAAAAAACs/UpdSD9L73cckbuE8oA5o0Zldva41gz-EwCNcBGAsYHQ/s144/android-launchericon-144-144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "https://1.bp.blogspot.com/-aEQyw2aqJEU/X2sOR0iqR-I/AAAAAAAAAC0/rg7MLsPAHjkdDzEwpUtfIb_WtddMhD3OQCNcBGAsYHQ/s192/android-launchericon-192-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "https://1.bp.blogspot.com/-8A7Hb0BlKYI/X2sOSmcoqAI/AAAAAAAAAC4/Z6VE5U-k2bESkV_HtPspEg8qSveleQ-JQCNcBGAsYHQ/s512/android-launchericon-512-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+		
+	],
+	"prefer_related_applications": "false"
+}
